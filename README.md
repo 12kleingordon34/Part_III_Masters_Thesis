@@ -1,5 +1,5 @@
 # Part III Masters Thesis
-Code written for my Master's Thesis (Physical Natural Sciences, Cambridge)
+Code written for my Master's Thesis (Physical Natural Sciences, Cambridge). Report can be found [here](./Report_final.pdf).
 
 ## Contents
 * `autocorr.py`: Contains autocorrelation functions for analysing Markov Chain independence criteria.
